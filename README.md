@@ -54,3 +54,17 @@ Start-Process "chrome.exe" -ArgumentList '--user-data-dir="C:\Users\<YOUR USERNA
 python main.py
 
 ```
+
+
+
+### 📸 Screenshots
+
+#### 🔐 Login to LinkedIn
+![Login](./screenshots/login.png)
+
+#### 📨 Sending Connection Requests
+![Connection Request](./screenshots/connect.png)
+
+#### 📄 Extracting People from Search
+![Search Results](./screenshots/search.png)
+
