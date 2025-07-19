@@ -25,8 +25,12 @@ This script logs into your LinkedIn account and performs actions like sending co
 
 ## 🔐 Setup Instructions
 
+---
+
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/SwatiMishra01/linkedin-automation.git
 cd linkedin-automation
+
+### 2. Install Dependencies
